@@ -32,7 +32,4 @@ E-College is a web-based platform designed to streamline educational processes, 
 ![Student Dashboard](screenshots/student_dashboard.png)
 
 
-For any issues, please contact me at [athrvarule@gmail.com](mailto:athrvarule@gmail.com). 📧
 
-
-Feel free to contribute to the project by submitting issues or pull requests. Happy coding! 🎉
