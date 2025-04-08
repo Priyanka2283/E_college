@@ -28,8 +28,9 @@ E-College is a web-based platform designed to streamline educational processes, 
 ![Admin Dashboard](screenshots/admin_dashboard.png)
 - **Staff Dashboard**
 ![Staff Dashboard](screenshots/staff_dashboard.png)
-- **Student Dashboard**
+<!---- **Student Dashboard**
 ![Student Dashboard](screenshots/student_dashboard.png)
+--->
 
 
 
